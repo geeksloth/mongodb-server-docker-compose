@@ -1,5 +1,5 @@
 # Simple MongoDB-Server-Docker-Compose
-A simple MongoDB Docker Compose template
+A simple MongoDB Server template based on Docker Compose
 
 ## Getting started
 1. Clone and get into this repo
