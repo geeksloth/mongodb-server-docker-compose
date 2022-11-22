@@ -1,4 +1,4 @@
-# MongoDB-simple-Docker-Compose
+# Simple MongoDB-Server-Docker-Compose
 A simple MongoDB Docker Compose template
 
 ## Getting started
